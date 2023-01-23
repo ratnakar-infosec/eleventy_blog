@@ -4,8 +4,9 @@
   "description": "A simple static blog site using Eleventy and Nunjucks",
   "main": "index.js",
   "scripts": {
-    "dev": "npx eleventy --watch",
-    "prod": "npx eleventy"
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve",
+    "dev": "netlify dev"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "dependencies": {
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^12.9.1"
   }
 }
