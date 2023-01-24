@@ -1,3 +1,3 @@
-### Eleventy-stylus blog site
+### Eleventy-Nunjucks blog site
 
-A static blog site created using eleventy and stylus.
+A static blog site created using eleventy and nunjucks.
