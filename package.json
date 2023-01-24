@@ -1,7 +1,7 @@
 {
   "name": "eleventy-blog",
   "version": "1.0.0",
-  "description": "A simple static blog site using Eleventy and Nunjucks",
+  "description": "A simple static blog site created using Eleventy and Nunjucks",
   "main": "index.js",
   "scripts": {
     "build": "npx @11ty/eleventy",
