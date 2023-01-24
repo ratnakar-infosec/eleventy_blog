@@ -246,4 +246,5 @@ Don’t stress about the exam, just do your job with 100% honesty considering it
 #### Some Amazing Resources
 - [How I Passed OSCP with 100 points in 12 hours without Metasploit in my first attempt](https://infosecwriteups.com/how-i-passed-oscp-with-100-points-in-12-hours-without-metasploit-in-my-first-attempt-dc8d03366f33)
 - [What to Expect From the New OSCP Exam | Offensive Security](https://www.offensive-security.com/offsec/what-to-expect-new-oscp-exam/)
-- [Post-OSCP Writeup](https://rizemon.github.io/posts/oscp-reflection/)
+- [Post-OSCP Writeup](https://rizemon.github.io/posts/oscp-reflection)
+
