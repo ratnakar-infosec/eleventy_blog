@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ##### &nbsp;&nbsp;**Ratnakar Singh**
 
-<br> A cyber security enthusiast and a Krishna conscious guy.
+<br> A cyber security enthusiast and a Krishna conscious.
 
 <br>
 
